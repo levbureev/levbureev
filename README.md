@@ -21,8 +21,7 @@
 ___
 ### Стек Технологий
 
-<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=onlyoffice&logoColor=blue"/>
-<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow">
+<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=onlyoffice&logoColor=blue"/> <img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=yellow">
 <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=yellow">
 <img src="https://img.shields.io/badge/Microsoft Office-black?style=for-the-badge&logo=microsoftoffice&logoColor=gold">
 <img src="https://img.shields.io/badge/СУБД-black?style=for-the-badge&logo=microsoftaccess&logoColor=green">
