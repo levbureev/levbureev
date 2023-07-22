@@ -21,7 +21,7 @@
 
 Стек Технологий:
 
-img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=opslevel&logoColor=ЦВЕТ ЛОГОТИПА"/
+img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=opslevel&logoColor=white"/
 
 
 
