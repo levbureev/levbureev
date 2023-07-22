@@ -30,6 +30,6 @@ ___
 
 ___
 ### Социальные сети
-[![Telegram](<https://img.shields.io/badge/Telegram -blue?style=for-the-badge&logo=telegram&logoColor=white>)](https://web.telegram.org/a/)
+[![Telegram](<https://img.shields.io/badge/Telegram -blue?style=for-the-badge&logo=telegram&logoColor=white>)](https://t.me/Levamale)
 
 [![Telegram](<https://img.shields.io/badge/linkedin -blue?style=for-the-badge&logo=linkedin&logoColor=white>)](...)
